@@ -1,5 +1,5 @@
 ---
-title: "Hello DSCI 521: smile or you're doing it wrong"
+title: "Hello World: Smile or you're doing it wrong"
 ---
 
 ## Who is Lingsong?
@@ -10,9 +10,5 @@ Inherently curious and committed to lifelong learning, I am eager to engage with
 
 ## Links
 
-arnozeng.::: {.columns}
-::: {.column}
-:::
-::: {.column}
-:::
-::: <!-- end columns -->
+Introductory page: https://arnozeng.com/
+Blog: https://blog.arnozeng.com/
