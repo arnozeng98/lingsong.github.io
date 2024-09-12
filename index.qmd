@@ -4,11 +4,13 @@ title: "Hello World: Smile or you're doing it wrong"
 
 ## Who is Lingsong?
 
-For programming languages, I'm familiar with R, Python, and C++, plus basic Golang. From previous intensive working experience as a solution engineer, I'm also familiar with Virtualization, Container, Migration, Backup, Disaster Recovery, and Full stack management for Data Center.
+My name is Lingsong Zeng, and I was born in 1998 in Chongqing, a beautiful mountainous city in central China. After completing high school in my hometown, I pursued my undergraduate studies in Statistics at Michigan State University in the United States. Upon graduation, I returned to Chongqing and worked for several years before deciding to further my education in Canada, where I am currently enrolled in the Master of Data Science in Computational Linguistics (MDS-CL) program at the University of British Columbia.
 
-Inherently curious and committed to lifelong learning, I am eager to engage with and tackle new challenges continuously.
+I have a solid foundation in programming, with proficiency in R, Python, and C++, along with basic knowledge of Golang. My previous role as a Solutions Engineer provided me with extensive experience in data center operations, including virtualization, containerization, migration, backup, disaster recovery, and full-stack management.
 
-## Links
+As a lifelong learner and explorer, I am passionate about embracing new challenges and continuously developing my skills. It's a pleasure to meet you.
 
-Introductory page: https://arnozeng.com/
-Blog: https://blog.arnozeng.com/
+## Where to find Lingsong?
+
+Introductory page: [arnozeng.com](https://arnozeng.com/) <br>
+Blog: [blog.arnozeng.com](https://blog.arnozeng.com/)
