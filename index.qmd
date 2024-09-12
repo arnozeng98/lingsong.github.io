@@ -2,6 +2,17 @@
 title: "Hello DSCI 521: smile or you're doing it wrong"
 ---
 
-This is a Quarto website.
+## Who is Lingsong?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+For programming languages, I'm familiar with R, Python, and C++, plus basic Golang. From previous intensive working experience as a solution engineer, I'm also familiar with Virtualization, Container, Migration, Backup, Disaster Recovery, and Full stack management for Data Center.
+
+Inherently curious and committed to lifelong learning, I am eager to engage with and tackle new challenges continuously.
+
+## Links
+
+arnozeng.::: {.columns}
+::: {.column}
+:::
+::: {.column}
+:::
+::: <!-- end columns -->
